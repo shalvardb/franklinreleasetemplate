@@ -1,5 +1,5 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"Adobe India","url":"contents/adobe-india"}]
+const treeData = [{"displayName":"Adobe India","url":"contents/html5-generation/adobe-india"}]
 const mapTitle = "html5_generation"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
